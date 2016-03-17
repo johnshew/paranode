@@ -1,0 +1,27 @@
+{
+  "name": "paranode",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha --recursive ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnshew/paranode.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "johnshew on twitter.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnshew/paranode/issues"
+  },
+  "homepage": "https://github.com/johnshew/paranode#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
