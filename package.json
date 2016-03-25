@@ -2,7 +2,7 @@
   "name": "paranode",
   "version": "0.1.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "mocha --recursive ./test"
   },
